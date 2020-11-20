@@ -109,7 +109,7 @@ public class NodeMultiple {
 	 * @return the content data
 	 */
 	public Object getData() {
-		/* TO BE COMPLETED */
+			this.data = data;
 	}
 
 	/**
